@@ -1,0 +1,25 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.monthButton{
+    display: inline; 
+    padding-right: 30px;
+}
+
+.headlines{
+    display: inline;
+    padding-right: 40px;
+}
+
+#text1 {
+    padding-top: 25px;
+}
+
+button {
+    padding-right: 5px;
+}

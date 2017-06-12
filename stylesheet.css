@@ -1,0 +1,65 @@
+.imgcontainer
+{
+  width: 550px;
+  height: 224px;
+  position: relative;
+  overflow: hidden;
+}
+
+.imgbackground
+{
+  position:absolute;
+  width: 1100px;
+  height: 224px;
+  background-position-x: 0%;
+  background-image: url(Sy3POs.png);
+  background-repeat: repeat-x;
+  z-index: 1;
+}
+.imgbloecke
+{
+  position: absolute;
+  text-align: left;
+  background-image: url(Two_Brick_Blocks_and_one_yellow_Block.png);
+  background-repeat: no-repeat;
+  width: 550px;
+  height: 33px;
+  z-index: 2;
+}
+.imgground
+{
+  position: absolute;
+  background-image: url(WHu9Z.png);
+  background-repeat: repeat-x;
+  width: 550px;
+  height: 32px;
+  margin-top: 15%;
+  z-index: 3;
+}
+.imglink
+{
+  position: absolute;
+  text-align: center;
+  margin-top: 7%;
+  z-index: 4;
+}
+#wrapper
+{
+  text-align: center;
+}
+.buttoncentre
+{
+  text-align: center;
+}
+
+/*Kundenliste CSS*/
+.centrediv
+{
+  text-align: center;
+}
+.buttonlist
+{
+  margin-top: 2%;
+}
+
+/*Gaestebuch CSS*/
